@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen", "Examen\Examen.csproj", "{5F1E3C58-B46D-4E62-9E63-66B41144D373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenData", "ExamenData\ExamenData.csproj", "{CFDC15BD-44A8-4543-8133-0865B34FD874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1E3C58-B46D-4E62-9E63-66B41144D373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1E3C58-B46D-4E62-9E63-66B41144D373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1E3C58-B46D-4E62-9E63-66B41144D373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1E3C58-B46D-4E62-9E63-66B41144D373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDC15BD-44A8-4543-8133-0865B34FD874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDC15BD-44A8-4543-8133-0865B34FD874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDC15BD-44A8-4543-8133-0865B34FD874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDC15BD-44A8-4543-8133-0865B34FD874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85C49B7-687B-48C9-9319-4D8B4966EC1D}
+	EndGlobalSection
+EndGlobal

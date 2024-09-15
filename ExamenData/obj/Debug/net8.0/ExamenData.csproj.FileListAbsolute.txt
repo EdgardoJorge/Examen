@@ -1,0 +1,12 @@
+C:\Users\Edgardo\source\repos\Examen\ExamenData\bin\Debug\net8.0\ExamenData.deps.json
+C:\Users\Edgardo\source\repos\Examen\ExamenData\bin\Debug\net8.0\ExamenData.dll
+C:\Users\Edgardo\source\repos\Examen\ExamenData\bin\Debug\net8.0\ExamenData.pdb
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.csproj.AssemblyReference.cache
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.AssemblyInfoInputs.cache
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.AssemblyInfo.cs
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.dll
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\refint\ExamenData.dll
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ExamenData.pdb
+C:\Users\Edgardo\source\repos\Examen\ExamenData\obj\Debug\net8.0\ref\ExamenData.dll
